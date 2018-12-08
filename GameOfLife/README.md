@@ -1,13 +1,19 @@
 # Game of Life
 
-
-![Neural Net generating the Game of life](life.gif?raw=true "Neural Net generating the Game of life")
-
 This game requires no players. 
-The only input to the game is its initial configuration. 
-One can observe how the game evolves by creating patterns having certain properties.
+The only input to the game is its initial configuration, which in this case is generated automatically
+
 The cells transition using certain rules, and these rules can be easily learnt using a simple neural network. 
-The training data can be created by taking random combinations of the neighbors and checking the cell transition given the combination. 
+One can observe how the game evolves by creating patterns having certain properties.
+
+Blinker pattern          |  Colony Simulation
+:-------------------------:|:-------------------------:
+![Neural Net generating a pattern](life2.gif?raw=true "Neural Net generating a pattern")  |  ![Neural Net generating the Game of life](life.gif?raw=true "Neural Net generating the Game of life")
+ 
+
+The training data was created by taking random combinations of the neighbors and
+checking the cell transition given the combination.<br/>
+The neural net could accurately reproduce the above shown as well as all other known patterns
 
 ## Running the project
 
