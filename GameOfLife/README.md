@@ -6,7 +6,7 @@ The only input to the game is its initial configuration, which in this case is g
 The cells transition using certain rules, and these rules can be easily learnt using a simple neural network. 
 One can observe how the game evolves by creating patterns having certain properties.
 
-Blinker pattern          |  Colony Simulation
+Blinker pattern          |  Colony decay (Several patterns)
 :-------------------------:|:-------------------------:
 ![Neural Net generating a pattern](life2.gif?raw=true "Neural Net generating a pattern")  |  ![Neural Net generating the Game of life](life.gif?raw=true "Neural Net generating the Game of life")
  
