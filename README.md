@@ -2,7 +2,7 @@
 Repository for hosting any interesting deep learning projects I am currently working on
 
 ## Current projects:
-* [Game of Life](GameOfLife) - Neural network wich can produce an entire game of life simulation
+* [Game of Life](GameOfLife) - Neural network which can produce an entire game of life simulation
 * [FoolNet](https://salildabholkar.github.io/2017/08/17/what-you-see-is-not-what-you-get/) - Using the backpropogation in neural nets to create images capable of fooling image classification systems (done with Inception V3)
 * [SarcDetect](https://salildabholkar.github.io/projects/2018/09/15/ulmfit-sarcasm-detection/) - Detecting sarcasm in English tweets using transfer learning (ULMFiT)
 
